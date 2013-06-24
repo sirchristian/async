@@ -1,0 +1,20 @@
+﻿
+THIS FILE CONTAINS THE OUTPUT FOR THE HELP ARGUMENT. ANYTHING ABOVE THE LINE
+MARKING 80 CHARS IS IGNORED ON OUTPUT.
+
+|----------- DO NOT TYPE ANYTHING LONGER THEN THIS LINE (80 CHARS) ------------|
+
+Usage: Asynk.exe [OPTION]
+Runs the Asynk application to process the requests.
+
+OPTIONs:
+Here is the list of available options
+
+/debug             - Runs in debug mode
+/install           - Installs the application as a service
+/uninstall         - Uninstall the application as a service
+/help              - Displays this text
+/cat=cat1,cat2,..  - Instructs the application to only work on queues of the
+                     named categories (by default all categories are worked on)
+                     
+                     
